@@ -2,6 +2,7 @@ altair @ git+https://github.com/altair-viz/altair.git@cc14c36327e1bdd228a67b7cd8
 python-binance
 fastapi==0.103.2
 openai==0.28.0
+newsapi-python
 PyPDF2==3.0.1
 scikit-learn
 streamlit
