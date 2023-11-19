@@ -5,6 +5,7 @@ openai==0.28.0
 newsapi-python
 PyPDF2==3.0.1
 PyMuPDF
+frontend
 fitz
 scikit-learn
 streamlit
