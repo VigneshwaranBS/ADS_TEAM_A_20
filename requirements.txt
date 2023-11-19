@@ -6,5 +6,6 @@ newsapi-python
 PyPDF2==3.0.1
 scikit-learn
 streamlit
+ccxt
 vaderSentiment
 yfinance
