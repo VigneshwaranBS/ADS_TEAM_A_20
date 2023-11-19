@@ -4,6 +4,9 @@ fastapi==0.103.2
 openai==0.28.0
 newsapi-python
 PyPDF2==3.0.1
+frontend
+PyMuPDF
+fitz
 scikit-learn
 streamlit
 ccxt
