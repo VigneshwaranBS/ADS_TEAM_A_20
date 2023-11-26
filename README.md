@@ -1,6 +1,6 @@
 # ADS_TEAM_A_20
 
-# The main objective :
+### The main objective :
  
 The development of a versatile Financial Data Extractor Tool,
 leveraging the OpenAI API and integrated within the Streamlit framework. The
